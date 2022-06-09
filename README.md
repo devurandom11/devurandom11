@@ -1,4 +1,5 @@
 ### Hi there 👋
+Join me on my journey as I develop my cybersecurity and scripting skills! 
 
 <!--
 **devurandom11/devurandom11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
