@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mike Crawford and I am a cybersecurity student and Coastline Community College in Garden Grove, California. I have a passion to help businesses deploy technologies that allow them to operate at their best. My dream is to become a Cloud Architect who drives the strategy, implementation, and deployment of secure cloud applications.
+My name is Mike Crawford and I am a Computer Science student from Costa Mesa, California. I have a passion to help businesses deploy technologies that allow them to operate at their best. My dream is to become a Cloud Architect who drives the strategy, implementation, and deployment of secure cloud applications.
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on obtaining industry certifications and learning the basics of Web Development with a focus on developing secure applications.
