@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-My name is Mike Crawford and I am a Computer Science student from Costa Mesa, California. I have a passion to help businesses deploy technologies that allow them to operate at their best. My dream is to become a Cloud Architect who drives the strategy, implementation, and deployment of secure cloud applications.
+I'm a cybersecurity professional based in Southern California, currently sharpening my skills in advanced penetration testing. My immediate goal is obtaining my OSCP and HTB CPTS certifications as I continue to develop my skills.
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on obtaining industry certifications and learning the basics of Web Development with a focus on developing secure applications.
-- 🌱 I’m currently learning how to program in Python and Javascript through an amalgam of online learning, college coursework, and banging my head against the keyboard ಥ‿ಥ
-- 👯 I’m looking to collaborate on open-source projects once I develop the appropriate skills. I would never have discovered my passion for programming had it not been for the open source community. I feel indebted, and would be honored to contribute something meaningful to a project some day.
+- 🔭 Focused on mastering penetration testing skills for OSCP and CPTS certifications.
+- 🌱 Short-term goal: Gain more experience as a cybersecurity analyst.
+- ⚡ Long-term goal: Transition to a penetration tester and eventually a red teamer role.
+- 👯 I'm actively involved in coding challenges, CTF competitions, and coaching students in cybersecurity at various levels, from middle school to college. This involves both offensive and defensive security.
+- 🤝 I serve as assistant coach for Coastline College's CCDC team, CyberPatriot mentor for middle and high school students, and contribute to a non-profit cybersecurity firm asssisting small businesses with their cybersecurity needs.
 - 📫 How to reach me: Ping me on discord at <b>devurandom11#1813</b> or at <a href="email">dev.random.87@gmail.com</a>
